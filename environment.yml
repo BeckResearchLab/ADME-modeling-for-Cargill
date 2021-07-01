@@ -4,6 +4,7 @@ channels:
   - rdkit
   - defaults
 dependencies:
+  - jupyter
   - altair
   - pandas=1.2.1
   - python=3.7.*
